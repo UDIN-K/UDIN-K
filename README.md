@@ -26,6 +26,9 @@
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
 </div>
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=UDIN-K&label=PROFILE+VIEWS&color=90E0EF&style=for-the-badge" alt="visitor count" />
+</div>
 
 ---
 
@@ -139,10 +142,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=UDIN-K&label=PROFILE+VIEWS&color=90E0EF&style=for-the-badge" alt="visitor count" />
-</div>
 
 <div align="center">
   
