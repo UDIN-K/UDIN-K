@@ -86,8 +86,27 @@
 
 </div>
 
----
+<div>
+<div align="center">
+ <br/>
 
+  **My Contributions**<br/></div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UDIN-K/UDIN-K/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UDIN-K/UDIN-K/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/UDIN-K/UDIN-K/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+<div align="center">
+  
+**Blog posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+  
+</div>
+<hr>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/GITHUB%20STATS-0D1117?style=for-the-badge&logo=github&logoColor=90E0EF" />
   
@@ -130,3 +149,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=UDIN-K&label=PROFILE+VIEWS&color=90E0EF&style=for-the-badge" alt="visitor count" />
 </div>
+         
+          
