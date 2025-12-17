@@ -147,11 +147,11 @@
   
 **Blog posts**</div><div>
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [From Meh to Marvelous: The Ultimate Guide to Crafting a Killer GitHub Profile](https://medium.com/@chijiokeokorji/from-meh-to-marvelous-the-ultimate-guide-to-crafting-a-killer-github-profile-8dd3f6c6d602?source=rss-eafa38bd25b9------2)
+- [Cracking the Code: How Hashing Protects Your Online Logins](https://medium.com/@chijiokeokorji/cracking-the-code-how-hashing-protects-your-online-logins-b0452c4567de?source=rss-eafa38bd25b9------2)
+- [The Digital Renaissance Symphony: A Chorus of Generalists and Specialists](https://medium.com/@chijiokeokorji/the-digital-renaissance-symphony-a-chorus-of-generalists-and-specialists-2d4852155f26?source=rss-eafa38bd25b9------2)
+- [How Artificial Intelligence is Ushering in a New Renaissance Era](https://medium.com/@chijiokeokorji/how-artificial-intelligence-is-ushering-in-a-new-renaissance-era-5fec39db90ea?source=rss-eafa38bd25b9------2)
+- [Finding Light in the Darkness: Overcoming Burnout and Rediscovering Fulfillment](https://medium.com/@chijiokeokorji/finding-light-in-the-darkness-overcoming-burnout-and-rediscovering-fulfillment-87f96d3d79e8?source=rss-eafa38bd25b9------2)
 <!-- BLOG-POST-LIST:END -->
   
 </div>
