@@ -32,11 +32,18 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently architecting and maintaining complex microservices and monorepo architectures.
-- 🌱 My expertise spans across **Frontend**, **Backend**, and **DevOps**.
-- 🐧 Proud **Arch Linux** user. I write code that works everywhere (yes, even on Windows machines 😅).
-- 💡 **Specialty:** System Migration (e.g., transforming native monolithic applications into decoupled REST API stacks).
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=90E0EF&height=120&section=header&text=About%20Me&fontSize=30&fontAlignY=35" />
+
+  <br>
+
+  <p>🔭 I’m currently architecting and maintaining complex <b>microservices</b> and <b>monorepo</b> architectures.</p>
+  <p>🌱 My expertise spans across <b>Frontend</b>, <b>Backend</b>, and <b>DevOps</b>.</p>
+  <p>🐧 Proud <b>Arch Linux</b> user. I write code that works everywhere <i>(yes, even on Windows machines 😅)</i>.</p>
+  <p>💡 <b>Specialty:</b> System Migration (transforming native apps into decoupled REST API stacks).</p>
+
+  <br>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/TECH%20ARSENAL-0D1117?style=for-the-badge&logo=force&logoColor=90E0EF" />
