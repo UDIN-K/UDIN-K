@@ -66,7 +66,9 @@
 
 <!-- Tech Stack Section -->
 <div align="center">
-  <h2>🚀 Tech Arsenal</h2>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=90E0EF&height=120&section=header&text=Tech%20Arsenal&fontSize=30&fontAlignY=35" />
+  <br/>
+  <br/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="40" />
@@ -105,9 +107,14 @@
 
 <!-- Featured Projects -->
 <div align="center">
-  <h2>🔥 Featured Project</h2>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=90E0EF&height=120&section=header&text=Featured%20Projects&fontSize=30&fontAlignY=35" />
+  <br/>
+  <br/>
   <a href="https://github.com/UDIN-COY/SILATORJANA">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=UDIN-COY&repo=SILATORJANA&theme=radium&show_icons=true" alt="SILATORJANA" />
+  </a>
+  <a href="https://github.com/UDIN-K/KOMA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UDIN-K&repo=KOMA&theme=radium&show_icons=true" alt="KOMA" />
   </a>
 </div>
 
