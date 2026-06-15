@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=90E0EF&center=true&vCenter=true&width=500&lines=System+Migration+Specialist;Building+Scalable+Architectures;React+%7C+Flutter+%7C+Laravel;Arch+Linux+%7C+Docker+Mastery" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=90E0EF&center=true&vCenter=true&width=500&lines=System+Migration+Specialist;Building+Scalable+Architectures;React+%7C+Flutter+%7C+Laravel;Arch+Linux+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -54,7 +54,6 @@
         <li>🔭 Currently building <b>Si-LATORJANA</b> & other microservices.</li>
         <li>🌱 Expertise in <b>Laravel, React, and Flutter</b>.</li>
         <li>🐧 Proud <b>Arch Linux</b> user. I conquer cross-platform dev environments effortlessly.</li>
-        <li>🐳 Master of <b>Docker</b> & deployments.</li>
       </ul>
     </td>
   </tr>
