@@ -110,10 +110,10 @@
   <br/>
   <br/>
   <a href="https://github.com/UDIN-COY/SILATORJANA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UDIN-COY&repo=SILATORJANA&theme=radium&show_icons=true" alt="SILATORJANA" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=UDIN-COY&repo=SILATORJANA&theme=radium&show_icons=true" alt="SILATORJANA" />
   </a>
   <a href="https://github.com/UDIN-K/KOMA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UDIN-K&repo=KOMA&theme=radium&show_icons=true" alt="KOMA" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=UDIN-K&repo=KOMA&theme=radium&show_icons=true" alt="KOMA" />
   </a>
 </div>
 
@@ -124,8 +124,8 @@
 <!-- Github Stats & Snake -->
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=UDIN-K&show_icons=true&theme=radium&rank_icon=github" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UDIN-K&layout=compact&theme=radium" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=UDIN-K&show_icons=true&theme=radium&rank_icon=github" alt="Github Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=UDIN-K&layout=compact&theme=radium" alt="Top Languages" />
 </div>
 
 <div align="center">
